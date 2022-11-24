@@ -1,1 +1,2 @@
 This is the new additional file in feature-branch in local repository
+one more line is added to this file from local repository
