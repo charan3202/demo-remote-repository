@@ -1,2 +1,3 @@
 hello world
 this is a file from demo repository
+this file is edited in feature branch of remote repository
